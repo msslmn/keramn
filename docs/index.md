@@ -13,7 +13,7 @@ layout: page
 .video-page h1 {
   font-size: 2.5rem;
   font-weight: 700;
-  margin-bottom: 2rem;
+  margin-bottom: 40px;
   text-align: center;
 }
 
@@ -38,7 +38,7 @@ layout: page
 </style>
 
 <div class="video-page">
-  <h1> هذاهو الطريق: سرُّ الإسلامِ الذي سيوقِظُ الأمةَ</h1>
+  <h1> هذا هو الطريق</h1>
   <div class="video-container">
     <iframe
       src="https://www.youtube.com/embed/xinnkP8py5U"
