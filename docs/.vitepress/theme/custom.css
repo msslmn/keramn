@@ -1,0 +1,8 @@
+.VPSkipLink {
+  display: none !important;
+}
+
+.VPNavBarMenu,
+.VPNavBarHamburger {
+  display: none !important;
+}

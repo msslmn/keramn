@@ -1,12 +1,11 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Kiramn',
-  description: 'Kiramn Site',
+  title: 'Keramn',
+  description: 'Keramn Site',
   base: '/',
   themeConfig: {
-    nav: [
-      { text: 'Home', link: '/' }
-    ]
+    nav: [],
+    sidebar: []
   }
 })
