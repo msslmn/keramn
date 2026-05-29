@@ -38,7 +38,7 @@ layout: page
 </style>
 
 <div class="video-page">
-  <h1>شفاءُ الغليل: سرُّ الإسلامِ الذي سيوقِظُ الأمةَ</h1>
+  <h1> هذاهو الطريق: سرُّ الإسلامِ الذي سيوقِظُ الأمةَ</h1>
   <div class="video-container">
     <iframe
       src="https://www.youtube.com/embed/xinnkP8py5U"
